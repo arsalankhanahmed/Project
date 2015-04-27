@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="4b3021cf-7b7a-4393-9a0e-f33869780b8d" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:83/UserNamePassService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="UserNamePassService.xsd" MetadataType="Schema" ID="0f511e6f-b6f8-485c-b512-e4ef4467f0a5" SourceId="1" SourceUrl="http://udlhocl97.udld.local:83/UserNamePassService.svc?xsd=xsd1" />
+    <MetadataFile FileName="UserNamePassService.disco" MetadataType="Disco" ID="28809c2e-758f-4dd1-b1f7-e6e7e9c1bc5f" SourceId="1" SourceUrl="http://udlhocl97.udld.local:83/UserNamePassService.svc?disco" />
+    <MetadataFile FileName="Service1.wsdl" MetadataType="Wsdl" ID="beddebb4-1d74-4a89-a1c8-ebc84563d149" SourceId="1" SourceUrl="http://udlhocl97.udld.local:83/UserNamePassService.svc?wsdl" />
+    <MetadataFile FileName="UserNamePassService1.xsd" MetadataType="Schema" ID="eb97782c-455d-49ab-af2e-22cda3cf2f84" SourceId="1" SourceUrl="http://udlhocl97.udld.local:83/UserNamePassService.svc?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
