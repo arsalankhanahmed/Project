@@ -1,0 +1,1 @@
+SELECT ( SELECT '[HANDLING SPECIAL CHARACTER INTO XML LIKE &, <, >, ETC], 'FOR XML PATH('' ),root('MyString'), type).value('/MyString[1]','varchar(max)')

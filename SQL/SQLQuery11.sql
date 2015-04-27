@@ -1,0 +1,59 @@
+INSERT INTO [DBSV2_Live].[dbo].[Resource]
+           ([FormFileName]
+           ,[Name]
+           ,[Code]
+           ,[ParentId]
+           ,[Type]
+           ,[Depth]
+           ,[SortOrderNo]
+           ,[ShowInMenu]
+           ,[ShortcutKey]
+           ,[SeperatorInMenu]
+           ,[IsStockReleatedScreen]
+           ,[IsCustomerReleatedScreen]
+           ,[IsConsignment]
+           ,[IsCommercial]
+           ,[IsUsageLoggingRequired]
+           ,[ModuleId]
+           ,[Parameter]
+           ,[AllowDuringDayCycleOnly]
+           ,[OnLoadBehaviorId]
+           ,[OnSaveBehaviorId]
+           ,[AllowProductOnes]
+           ,[InsertDate]
+           ,[InsertedBy]
+           ,[UpdateDate]
+           ,[UpdatedBy]
+           ,[ToSend]
+           ,[CommunicationId])
+     VALUES(
+           'frmGrossSaleAndGrossMargin'
+           ,'Gross Sale and Gross Margin'
+           ,'R174-'
+           ,542
+           ,'REPORT'
+           ,3
+           ,13
+           ,1
+           ,NULL
+           ,0
+           ,0
+           ,0
+           ,1
+           ,1
+           ,0
+           ,6
+           ,NULL
+           ,0
+           ,2
+           ,2
+           ,0
+           ,'2013-05-18 14:17:33.697'
+           ,1
+           ,NULL
+           ,0
+           ,1
+           ,NULL)
+GO
+
+

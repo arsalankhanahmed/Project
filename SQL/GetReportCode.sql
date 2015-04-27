@@ -1,0 +1,1 @@
+SELECT 'R'+CONVERT(VARCHAR,(SELECT MAX(Cast(Replace(Replace(r.Code,'R',''),'-','') AS INT))+1 FROM Resource r WHERE r.Code IS NOT NULL))+'-'
