@@ -1,0 +1,9 @@
+c:\users\arsalan.ahmed\documents\visual studio 2010\Projects\SendingEmail\SendingEmail\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\arsalan.ahmed\documents\visual studio 2010\Projects\SendingEmail\SendingEmail\obj\x86\Debug\SendingEmail.Form1.resources
+c:\users\arsalan.ahmed\documents\visual studio 2010\Projects\SendingEmail\SendingEmail\obj\x86\Debug\SendingEmail.Properties.Resources.resources
+c:\users\arsalan.ahmed\documents\visual studio 2010\Projects\SendingEmail\SendingEmail\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\arsalan.ahmed\documents\visual studio 2010\Projects\SendingEmail\SendingEmail\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\arsalan.ahmed\documents\visual studio 2010\Projects\SendingEmail\SendingEmail\bin\Debug\SendingEmail.exe
+c:\users\arsalan.ahmed\documents\visual studio 2010\Projects\SendingEmail\SendingEmail\bin\Debug\SendingEmail.pdb
+c:\users\arsalan.ahmed\documents\visual studio 2010\Projects\SendingEmail\SendingEmail\obj\x86\Debug\SendingEmail.exe
+c:\users\arsalan.ahmed\documents\visual studio 2010\Projects\SendingEmail\SendingEmail\obj\x86\Debug\SendingEmail.pdb

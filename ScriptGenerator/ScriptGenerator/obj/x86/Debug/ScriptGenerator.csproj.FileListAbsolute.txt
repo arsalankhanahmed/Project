@@ -1,0 +1,8 @@
+C:\Users\arsalan.ahmed\Documents\Visual Studio 2010\Projects\ScriptGenerator\ScriptGenerator\bin\Debug\ScriptGenerator.exe
+C:\Users\arsalan.ahmed\Documents\Visual Studio 2010\Projects\ScriptGenerator\ScriptGenerator\bin\Debug\ScriptGenerator.pdb
+C:\Users\arsalan.ahmed\Documents\Visual Studio 2010\Projects\ScriptGenerator\ScriptGenerator\obj\x86\Debug\ScriptGenerator.frmScriptGenerator.resources
+C:\Users\arsalan.ahmed\Documents\Visual Studio 2010\Projects\ScriptGenerator\ScriptGenerator\obj\x86\Debug\ScriptGenerator.Properties.Resources.resources
+C:\Users\arsalan.ahmed\Documents\Visual Studio 2010\Projects\ScriptGenerator\ScriptGenerator\obj\x86\Debug\ScriptGenerator.csproj.GenerateResource.Cache
+C:\Users\arsalan.ahmed\Documents\Visual Studio 2010\Projects\ScriptGenerator\ScriptGenerator\obj\x86\Debug\ScriptGenerator.exe
+C:\Users\arsalan.ahmed\Documents\Visual Studio 2010\Projects\ScriptGenerator\ScriptGenerator\obj\x86\Debug\ScriptGenerator.pdb
+C:\Users\arsalan.ahmed\Documents\Visual Studio 2010\Projects\ScriptGenerator\ScriptGenerator\obj\x86\Debug\ScriptGenerator.csprojResolveAssemblyReference.cache
