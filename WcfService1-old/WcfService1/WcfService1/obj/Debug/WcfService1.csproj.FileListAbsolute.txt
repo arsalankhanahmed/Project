@@ -1,0 +1,4 @@
+c:\users\ovais.khan\documents\visual studio 2010\projects\WcfService1\WcfService1\bin\WcfService1.dll
+c:\users\ovais.khan\documents\visual studio 2010\projects\WcfService1\WcfService1\bin\WcfService1.pdb
+c:\users\ovais.khan\documents\visual studio 2010\projects\WcfService1\WcfService1\obj\Debug\WcfService1.dll
+c:\users\ovais.khan\documents\visual studio 2010\projects\WcfService1\WcfService1\obj\Debug\WcfService1.pdb

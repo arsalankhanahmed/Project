@@ -1,0 +1,118 @@
+c:\users\ovais.khan\documents\visual studio 2010\projects\WcfService1\WcfService1\bin\UDLSAPConnector.dll
+c:\users\ovais.khan\documents\visual studio 2010\projects\WcfService1\WcfService1\bin\UDLSAPConnector.pdb
+c:\users\ovais.khan\documents\visual studio 2010\projects\WcfService1\WcfService1\obj\Debug\UDLSAPConnector.dll
+c:\users\ovais.khan\documents\visual studio 2010\projects\WcfService1\WcfService1\obj\Debug\UDLSAPConnector.pdb
+E:\MY Data\WcfService1\WcfService1\WcfService1\bin\UDLSAPConnector.dll
+E:\MY Data\WcfService1\WcfService1\WcfService1\bin\UDLSAPConnector.pdb
+E:\MY Data\WcfService1\WcfService1\WcfService1\obj\Debug\UDLSAPConnector.dll
+E:\MY Data\WcfService1\WcfService1\WcfService1\obj\Debug\UDLSAPConnector.pdb
+E:\MY Data\WcfService1\WcfService1\WcfService1\bin\Udl.EmailService.dll
+E:\MY Data\WcfService1\WcfService1\WcfService1\bin\UDL.Common.CommonDataLayer.dll
+E:\MY Data\WcfService1\WcfService1\WcfService1\bin\Udl.LoggingService.dll
+E:\MY Data\WcfService1\WcfService1\WcfService1\bin\Udl.CommunicationFileFormat.dll
+E:\MY Data\WcfService1\WcfService1\WcfService1\bin\UDL.Common.DataAccessLayer.dll
+E:\MY Data\WcfService1\WcfService1\WcfService1\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\MY Data\WcfService1\WcfService1\WcfService1\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\MY Data\WcfService1\WcfService1\WcfService1\bin\Microsoft.Practices.ServiceLocation.dll
+E:\MY Data\WcfService1\WcfService1\WcfService1\bin\Microsoft.Practices.Unity.dll
+E:\MY Data\WcfService1\WcfService1\WcfService1\bin\Microsoft.Practices.Unity.Interception.dll
+E:\MY Data\WcfService1\WcfService1\WcfService1\bin\Udl.EmailService.pdb
+E:\MY Data\WcfService1\WcfService1\WcfService1\bin\UDL.Common.CommonDataLayer.pdb
+E:\MY Data\WcfService1\WcfService1\WcfService1\bin\Udl.LoggingService.pdb
+E:\MY Data\WcfService1\WcfService1\WcfService1\bin\Udl.CommunicationFileFormat.pdb
+E:\MY Data\WcfService1\WcfService1\WcfService1\bin\UDL.Common.DataAccessLayer.pdb
+E:\MY Data\WcfService1\WcfService1\WcfService1\bin\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+E:\MY Data\WcfService1\WcfService1\WcfService1\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+E:\MY Data\WcfService1\WcfService1\WcfService1\bin\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+E:\MY Data\WcfService1\WcfService1\WcfService1\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\MY Data\WcfService1\WcfService1\WcfService1\bin\Microsoft.Practices.ServiceLocation.pdb
+E:\MY Data\WcfService1\WcfService1\WcfService1\bin\Microsoft.Practices.Unity.pdb
+E:\MY Data\WcfService1\WcfService1\WcfService1\bin\Microsoft.Practices.Unity.Interception.pdb
+E:\MY Data\WcfService1\WcfService1\WcfService1\obj\Debug\UDLSAPConnector.csprojResolveAssemblyReference.cache
+E:\MY Data\WcfService1\WcfService1\bin\UDLSAPConnector.dll
+E:\MY Data\WcfService1\WcfService1\bin\UDLSAPConnector.pdb
+E:\MY Data\WcfService1\WcfService1\bin\Udl.EmailService.dll
+E:\MY Data\WcfService1\WcfService1\bin\UDL.Common.CommonDataLayer.dll
+E:\MY Data\WcfService1\WcfService1\bin\Udl.LoggingService.dll
+E:\MY Data\WcfService1\WcfService1\bin\Udl.CommunicationFileFormat.dll
+E:\MY Data\WcfService1\WcfService1\bin\UDL.Common.DataAccessLayer.dll
+E:\MY Data\WcfService1\WcfService1\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\MY Data\WcfService1\WcfService1\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\MY Data\WcfService1\WcfService1\bin\Microsoft.Practices.ServiceLocation.dll
+E:\MY Data\WcfService1\WcfService1\bin\Microsoft.Practices.Unity.dll
+E:\MY Data\WcfService1\WcfService1\bin\Microsoft.Practices.Unity.Interception.dll
+E:\MY Data\WcfService1\WcfService1\bin\Udl.EmailService.pdb
+E:\MY Data\WcfService1\WcfService1\bin\UDL.Common.CommonDataLayer.pdb
+E:\MY Data\WcfService1\WcfService1\bin\Udl.LoggingService.pdb
+E:\MY Data\WcfService1\WcfService1\bin\Udl.CommunicationFileFormat.pdb
+E:\MY Data\WcfService1\WcfService1\bin\UDL.Common.DataAccessLayer.pdb
+E:\MY Data\WcfService1\WcfService1\bin\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+E:\MY Data\WcfService1\WcfService1\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+E:\MY Data\WcfService1\WcfService1\bin\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+E:\MY Data\WcfService1\WcfService1\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\MY Data\WcfService1\WcfService1\bin\Microsoft.Practices.ServiceLocation.pdb
+E:\MY Data\WcfService1\WcfService1\bin\Microsoft.Practices.Unity.pdb
+E:\MY Data\WcfService1\WcfService1\bin\Microsoft.Practices.Unity.Interception.pdb
+E:\MY Data\WcfService1\WcfService1\obj\Debug\UDLSAPConnector.csprojResolveAssemblyReference.cache
+E:\MY Data\WcfService1\WcfService1\obj\Debug\UDLSAPConnector.dll
+E:\MY Data\WcfService1\WcfService1\obj\Debug\UDLSAPConnector.pdb
+C:\Users\arsalan.ahmed\Desktop\WcfService1\WcfService1\WcfService1\obj\Debug\UDLSAPConnector.csprojResolveAssemblyReference.cache
+C:\Users\arsalan.ahmed\Desktop\WcfService1\WcfService1\WcfService1\obj\Debug\UDLSAPConnector.dll
+C:\Users\arsalan.ahmed\Desktop\WcfService1\WcfService1\WcfService1\obj\Debug\UDLSAPConnector.pdb
+C:\Users\arsalan.ahmed\Desktop\WcfService1\WcfService1\WcfService1\bin\UDLSAPConnector.dll
+C:\Users\arsalan.ahmed\Desktop\WcfService1\WcfService1\WcfService1\bin\UDLSAPConnector.pdb
+C:\Users\arsalan.ahmed\Desktop\WcfService1\WcfService1\WcfService1\bin\Udl.EmailService.dll
+C:\Users\arsalan.ahmed\Desktop\WcfService1\WcfService1\WcfService1\bin\UDL.Common.CommonDataLayer.dll
+C:\Users\arsalan.ahmed\Desktop\WcfService1\WcfService1\WcfService1\bin\Udl.LoggingService.dll
+C:\Users\arsalan.ahmed\Desktop\WcfService1\WcfService1\WcfService1\bin\Udl.CommunicationFileFormat.dll
+C:\Users\arsalan.ahmed\Desktop\WcfService1\WcfService1\WcfService1\bin\UDL.Common.DataAccessLayer.dll
+C:\Users\arsalan.ahmed\Desktop\WcfService1\WcfService1\WcfService1\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\arsalan.ahmed\Desktop\WcfService1\WcfService1\WcfService1\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\arsalan.ahmed\Desktop\WcfService1\WcfService1\WcfService1\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\arsalan.ahmed\Desktop\WcfService1\WcfService1\WcfService1\bin\Microsoft.Practices.Unity.dll
+C:\Users\arsalan.ahmed\Desktop\WcfService1\WcfService1\WcfService1\bin\Microsoft.Practices.Unity.Interception.dll
+C:\Users\arsalan.ahmed\Desktop\WcfService1\WcfService1\WcfService1\bin\Udl.EmailService.pdb
+C:\Users\arsalan.ahmed\Desktop\WcfService1\WcfService1\WcfService1\bin\UDL.Common.CommonDataLayer.pdb
+C:\Users\arsalan.ahmed\Desktop\WcfService1\WcfService1\WcfService1\bin\Udl.LoggingService.pdb
+C:\Users\arsalan.ahmed\Desktop\WcfService1\WcfService1\WcfService1\bin\Udl.CommunicationFileFormat.pdb
+C:\Users\arsalan.ahmed\Desktop\WcfService1\WcfService1\WcfService1\bin\UDL.Common.DataAccessLayer.pdb
+D:\UDLSAP\WcfService1\WcfService1\WcfService1\bin\UDLSAPConnector.dll
+D:\UDLSAP\WcfService1\WcfService1\WcfService1\bin\UDLSAPConnector.pdb
+D:\UDLSAP\WcfService1\WcfService1\WcfService1\bin\Udl.EmailService.dll
+D:\UDLSAP\WcfService1\WcfService1\WcfService1\bin\UDL.Common.CommonDataLayer.dll
+D:\UDLSAP\WcfService1\WcfService1\WcfService1\bin\Udl.LoggingService.dll
+D:\UDLSAP\WcfService1\WcfService1\WcfService1\bin\Udl.CommunicationFileFormat.dll
+D:\UDLSAP\WcfService1\WcfService1\WcfService1\bin\UDL.Common.DataAccessLayer.dll
+D:\UDLSAP\WcfService1\WcfService1\WcfService1\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\UDLSAP\WcfService1\WcfService1\WcfService1\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\UDLSAP\WcfService1\WcfService1\WcfService1\bin\Microsoft.Practices.ServiceLocation.dll
+D:\UDLSAP\WcfService1\WcfService1\WcfService1\bin\Microsoft.Practices.Unity.dll
+D:\UDLSAP\WcfService1\WcfService1\WcfService1\bin\Microsoft.Practices.Unity.Interception.dll
+D:\UDLSAP\WcfService1\WcfService1\WcfService1\bin\Udl.EmailService.pdb
+D:\UDLSAP\WcfService1\WcfService1\WcfService1\bin\UDL.Common.CommonDataLayer.pdb
+D:\UDLSAP\WcfService1\WcfService1\WcfService1\bin\Udl.LoggingService.pdb
+D:\UDLSAP\WcfService1\WcfService1\WcfService1\bin\Udl.CommunicationFileFormat.pdb
+D:\UDLSAP\WcfService1\WcfService1\WcfService1\bin\UDL.Common.DataAccessLayer.pdb
+D:\UDLSAP\WcfService1\WcfService1\WcfService1\obj\Debug\UDLSAPConnector.csprojResolveAssemblyReference.cache
+D:\UDLSAP\WcfService1\WcfService1\WcfService1\obj\Debug\UDLSAPConnector.dll
+D:\UDLSAP\WcfService1\WcfService1\WcfService1\obj\Debug\UDLSAPConnector.pdb
+D:\UDLSAP\WcfService1-old\WcfService1\WcfService1\bin\UDLSAPConnector.dll
+D:\UDLSAP\WcfService1-old\WcfService1\WcfService1\bin\UDLSAPConnector.pdb
+D:\UDLSAP\WcfService1-old\WcfService1\WcfService1\bin\Udl.EmailService.dll
+D:\UDLSAP\WcfService1-old\WcfService1\WcfService1\bin\UDL.Common.CommonDataLayer.dll
+D:\UDLSAP\WcfService1-old\WcfService1\WcfService1\bin\Udl.LoggingService.dll
+D:\UDLSAP\WcfService1-old\WcfService1\WcfService1\bin\Udl.CommunicationFileFormat.dll
+D:\UDLSAP\WcfService1-old\WcfService1\WcfService1\bin\UDL.Common.DataAccessLayer.dll
+D:\UDLSAP\WcfService1-old\WcfService1\WcfService1\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\UDLSAP\WcfService1-old\WcfService1\WcfService1\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\UDLSAP\WcfService1-old\WcfService1\WcfService1\bin\Microsoft.Practices.ServiceLocation.dll
+D:\UDLSAP\WcfService1-old\WcfService1\WcfService1\bin\Microsoft.Practices.Unity.dll
+D:\UDLSAP\WcfService1-old\WcfService1\WcfService1\bin\Microsoft.Practices.Unity.Interception.dll
+D:\UDLSAP\WcfService1-old\WcfService1\WcfService1\bin\Udl.EmailService.pdb
+D:\UDLSAP\WcfService1-old\WcfService1\WcfService1\bin\UDL.Common.CommonDataLayer.pdb
+D:\UDLSAP\WcfService1-old\WcfService1\WcfService1\bin\Udl.LoggingService.pdb
+D:\UDLSAP\WcfService1-old\WcfService1\WcfService1\bin\Udl.CommunicationFileFormat.pdb
+D:\UDLSAP\WcfService1-old\WcfService1\WcfService1\bin\UDL.Common.DataAccessLayer.pdb
+D:\UDLSAP\WcfService1-old\WcfService1\WcfService1\obj\Debug\UDLSAPConnector.csprojResolveAssemblyReference.cache
+D:\UDLSAP\WcfService1-old\WcfService1\WcfService1\obj\Debug\UDLSAPConnector.dll
+D:\UDLSAP\WcfService1-old\WcfService1\WcfService1\obj\Debug\UDLSAPConnector.pdb
