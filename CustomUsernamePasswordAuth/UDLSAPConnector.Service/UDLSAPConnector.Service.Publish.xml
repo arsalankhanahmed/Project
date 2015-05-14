@@ -1,0 +1,24 @@
+<publishData>
+  <publishTarget publishUrl="C:\inetpub\WebSite\">
+    <file relUrl="Web.config" publishTime="05/13/2015 10:01:00" />
+    <file relUrl="bin/Microsoft.Practices.EnterpriseLibrary.Common.dll" publishTime="10/11/2013 15:59:10" />
+    <file relUrl="bin/Udl.CommunicationFileFormat.dll" publishTime="04/28/2015 11:32:29" />
+    <file relUrl="bin/Microsoft.Practices.ServiceLocation.dll" publishTime="10/11/2013 15:59:09" />
+    <file relUrl="bin/Udl.EmailService.dll" publishTime="05/09/2015 17:32:20" />
+    <file relUrl="bin/CustomUsernamePasswordAuth.Service.dll" publishTime="05/14/2015 10:48:10" />
+    <file relUrl="bin/Udl.CommunicationFileFormat.pdb" publishTime="04/28/2015 11:32:29" />
+    <file relUrl="bin/UDL.Common.DataAccessLayer.pdb" publishTime="05/12/2015 17:40:50" />
+    <file relUrl="bin/UDL.Common.CommonDataLayer.dll" publishTime="05/12/2015 17:40:52" />
+    <file relUrl="bin/Udl.EmailService.pdb" publishTime="05/09/2015 17:32:20" />
+    <file relUrl="bin/Udl.LoggingService.pdb" publishTime="04/28/2015 11:32:30" />
+    <file relUrl="bin/Microsoft.Practices.Unity.dll" publishTime="10/11/2013 15:59:09" />
+    <file relUrl="bin/Microsoft.Practices.Unity.Interception.dll" publishTime="10/11/2013 15:59:12" />
+    <file relUrl="bin/Microsoft.Practices.EnterpriseLibrary.Data.dll" publishTime="10/11/2013 15:59:09" />
+    <file relUrl="bin/CustomUsernamePasswordAuth.Service.dll.config" publishTime="05/13/2015 10:01:00" />
+    <file relUrl="CustomUsernamePasswordAuth.Service.Service1.svc" publishTime="05/14/2015 10:48:10" />
+    <file relUrl="bin/CustomUsernamePasswordAuth.Service.pdb" publishTime="05/14/2015 10:48:10" />
+    <file relUrl="bin/UDL.Common.CommonDataLayer.pdb" publishTime="05/12/2015 17:40:52" />
+    <file relUrl="bin/Udl.LoggingService.dll" publishTime="04/28/2015 11:32:30" />
+    <file relUrl="bin/UDL.Common.DataAccessLayer.dll" publishTime="05/12/2015 17:40:50" />
+  </publishTarget>
+</publishData>

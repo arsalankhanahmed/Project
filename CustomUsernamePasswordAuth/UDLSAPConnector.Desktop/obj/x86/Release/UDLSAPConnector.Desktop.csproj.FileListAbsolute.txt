@@ -1,0 +1,12 @@
+C:\Users\arsalan.ahmed\Documents\Visual Studio 2010\Projects\CustomUsernamePasswordAuth\UDLSAPConnector.Desktop\bin\Release\CustomUsernamePasswordAuth.Desktop.exe.config
+C:\Users\arsalan.ahmed\Documents\Visual Studio 2010\Projects\CustomUsernamePasswordAuth\UDLSAPConnector.Desktop\bin\Release\CustomUsernamePasswordAuth.Desktop.exe.manifest
+C:\Users\arsalan.ahmed\Documents\Visual Studio 2010\Projects\CustomUsernamePasswordAuth\UDLSAPConnector.Desktop\bin\Release\CustomUsernamePasswordAuth.Desktop.application
+C:\Users\arsalan.ahmed\Documents\Visual Studio 2010\Projects\CustomUsernamePasswordAuth\UDLSAPConnector.Desktop\bin\Release\CustomUsernamePasswordAuth.Desktop.exe
+C:\Users\arsalan.ahmed\Documents\Visual Studio 2010\Projects\CustomUsernamePasswordAuth\UDLSAPConnector.Desktop\bin\Release\CustomUsernamePasswordAuth.Desktop.pdb
+C:\Users\arsalan.ahmed\Documents\Visual Studio 2010\Projects\CustomUsernamePasswordAuth\UDLSAPConnector.Desktop\obj\x86\Release\CustomUsernamePasswordAuth.Desktop.Form1.resources
+C:\Users\arsalan.ahmed\Documents\Visual Studio 2010\Projects\CustomUsernamePasswordAuth\UDLSAPConnector.Desktop\obj\x86\Release\CustomUsernamePasswordAuth.Desktop.Properties.Resources.resources
+C:\Users\arsalan.ahmed\Documents\Visual Studio 2010\Projects\CustomUsernamePasswordAuth\UDLSAPConnector.Desktop\obj\x86\Release\UDLSAPConnector.Desktop.csproj.GenerateResource.Cache
+C:\Users\arsalan.ahmed\Documents\Visual Studio 2010\Projects\CustomUsernamePasswordAuth\UDLSAPConnector.Desktop\obj\x86\Release\CustomUsernamePasswordAuth.Desktop.exe.manifest
+C:\Users\arsalan.ahmed\Documents\Visual Studio 2010\Projects\CustomUsernamePasswordAuth\UDLSAPConnector.Desktop\obj\x86\Release\CustomUsernamePasswordAuth.Desktop.application
+C:\Users\arsalan.ahmed\Documents\Visual Studio 2010\Projects\CustomUsernamePasswordAuth\UDLSAPConnector.Desktop\obj\x86\Release\CustomUsernamePasswordAuth.Desktop.exe
+C:\Users\arsalan.ahmed\Documents\Visual Studio 2010\Projects\CustomUsernamePasswordAuth\UDLSAPConnector.Desktop\obj\x86\Release\CustomUsernamePasswordAuth.Desktop.pdb

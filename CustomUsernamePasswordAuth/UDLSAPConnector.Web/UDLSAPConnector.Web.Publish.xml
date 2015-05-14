@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\inetpub\WebSite" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="SAPIDOCReceiverService.svc" publishTime="05/09/2015 12:25:48" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="07/20/2010 16:15:46" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="07/20/2010 16:15:46" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="07/20/2010 16:15:46" />
+    <file relUrl="web.config" publishTime="05/14/2015 10:50:23" />
+    <file relUrl="Default.aspx" publishTime="05/09/2015 12:44:02" />
+    <file relUrl="bin/CustomUsernamePasswordAuth.Web.pdb" publishTime="05/14/2015 10:49:49" />
+    <file relUrl="bin/CustomUsernamePasswordAuth.Web.dll" publishTime="05/14/2015 10:49:49" />
+  </publishProfile>
+</publishData>

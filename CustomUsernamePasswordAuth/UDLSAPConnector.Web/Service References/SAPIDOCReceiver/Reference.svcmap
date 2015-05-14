@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="df25b33f-046f-4388-b59d-c819b1745878" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:83/SAPIDOCReceiverservice.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="SAPIDOCReceiverService.disco" MetadataType="Disco" ID="450b8623-44b7-4e2c-afd2-8468cf680e79" SourceId="1" SourceUrl="http://udlhocl97.udld.local:83/SAPIDOCReceiverService.svc?disco" />
+    <MetadataFile FileName="SAPIDOCReceiverService.xsd" MetadataType="Schema" ID="30856d93-79a5-4664-8b98-ba7a20f1f996" SourceId="1" SourceUrl="http://udlhocl97.udld.local:83/SAPIDOCReceiverService.svc?xsd=xsd1" />
+    <MetadataFile FileName="Service1.wsdl" MetadataType="Wsdl" ID="49248bc9-c513-49c1-9875-ea5ec75a603e" SourceId="1" SourceUrl="http://udlhocl97.udld.local:83/SAPIDOCReceiverService.svc?wsdl" />
+    <MetadataFile FileName="SAPIDOCReceiverService1.xsd" MetadataType="Schema" ID="13353918-5caa-4f3c-9272-3b7c60ff9fd5" SourceId="1" SourceUrl="http://udlhocl97.udld.local:83/SAPIDOCReceiverService.svc?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
